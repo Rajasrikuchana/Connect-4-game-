@@ -26,7 +26,7 @@ This is a simple **Connect Four** game implemented using JavaScript, HTML, and C
 6. The game state is saved in **Local Storage**.
 
 ## File Structure
-/connect-four │── index.html # Main HTML file │── styles.css # Styling file │── script.js # JavaScript logic │── assets/ # Images & icons │── README.md # Project documentation
+/connect-four │── index.html # Main HTML file │── main.css # Styling file │── script.js # JavaScript logic │── assets/ # Images & icons │── README.md # Project documentation
 
 ## Game Logic
 
